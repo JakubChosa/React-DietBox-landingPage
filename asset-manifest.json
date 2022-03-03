@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-DietBox-landingPage/static/css/main.8488533b.css",
+    "main.js": "/React-DietBox-landingPage/static/js/main.3fa12ed1.js",
+    "static/media/boxes.mp4": "/React-DietBox-landingPage/static/media/boxes.de5cce8c565ef17ebe15.mp4",
+    "static/media/protein.jpg": "/React-DietBox-landingPage/static/media/protein.3e688d0b30269606e0e2.jpg",
+    "static/media/normal.jpg": "/React-DietBox-landingPage/static/media/normal.83e031b0313d7b5cecc5.jpg",
+    "static/media/keto.jpg": "/React-DietBox-landingPage/static/media/keto.ac637aabd265d12cd0f0.jpg",
+    "static/media/person2.jpg": "/React-DietBox-landingPage/static/media/person2.62b44f6d0c6da456a55c.jpg",
+    "static/media/slim.jpg": "/React-DietBox-landingPage/static/media/slim.223d4db43936111a1364.jpg",
+    "static/media/food2.jpg": "/React-DietBox-landingPage/static/media/food2.31c0c4d2dd123d7ab6b8.jpg",
+    "static/media/vege.jpg": "/React-DietBox-landingPage/static/media/vege.4201d9f3261089b5acdf.jpg",
+    "static/media/about-us-food.jpg": "/React-DietBox-landingPage/static/media/about-us-food.22c061aacaff5115aba7.jpg",
+    "static/media/paleto.jpg": "/React-DietBox-landingPage/static/media/paleto.781bf6318420c9f96cdb.jpg",
+    "static/media/person1.jpg": "/React-DietBox-landingPage/static/media/person1.299fe1314076f4e92e90.jpg",
+    "static/media/person3.jpg": "/React-DietBox-landingPage/static/media/person3.cdbfc135c3128f7e6f08.jpg",
+    "index.html": "/React-DietBox-landingPage/index.html",
+    "main.8488533b.css.map": "/React-DietBox-landingPage/static/css/main.8488533b.css.map",
+    "main.3fa12ed1.js.map": "/React-DietBox-landingPage/static/js/main.3fa12ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8488533b.css",
+    "static/js/main.3fa12ed1.js"
+  ]
+}
