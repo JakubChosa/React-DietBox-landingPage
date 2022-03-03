@@ -17,8 +17,6 @@ import {
   IconSubtext
 } from './AboutElements.js'
 
-// autoPlay loop muted src={Video} type='video/mp4'
-
 export default function About() {
   return (
     <SectionContainer id="about" sectionWrap>

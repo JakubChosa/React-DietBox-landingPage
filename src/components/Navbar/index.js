@@ -32,8 +32,6 @@ export default function Navbar(props) {
     return (window.addEventListener('scroll', changeNav))
   },[])
 
-  const styles = {color: scrollNav !== "false" ? 'black' : "white"}
-
   function toggleHome(){
     scroll.scrollToTop()
   }

@@ -2,7 +2,7 @@ export const products = [
   {
     id: 1,
     name: 'Normal',
-    img: './assets/normal.jpg',
+    img: 'normal',
     details: {
       price: 10,
       calories: 500,
@@ -15,7 +15,7 @@ export const products = [
   {
     id: 2,
     name: 'Slim',
-    img: './assets/slim.jpg',
+    img: 'slim',
     details: {
       price: 12,
       calories: 500,
@@ -28,7 +28,7 @@ export const products = [
   {
     id: 3,
     name: 'Keto',
-    img: './assets/keto.jpg',
+    img: 'keto',
     details: {
       price: 9,
       calories: 500,
@@ -41,7 +41,7 @@ export const products = [
   {
     id: 4,
     name: 'Vege',
-    img: './assets/vege.jpg',
+    img: 'vege',
     details: {
       price: 8,
       calories: 500,
@@ -54,7 +54,7 @@ export const products = [
   {
     id: 5,
     name: 'Fitness',
-    img: './assets/fitness.jpg',
+    img: 'protein',
     details: {
       price: 11,
       calories: 500,
@@ -67,7 +67,7 @@ export const products = [
   {
     id: 6,
     name: 'Paleto',
-    img: './assets/paleto.jpg',
+    img: 'paleto',
     details: {
       price: 15,
       calories: 500,

@@ -7,7 +7,6 @@ import {
   FooterLinksWrapper,
   FooterLinkTitle,
   FooterLink,
-  SocialIcon,
   EmailContainer,
   EmailContact,
   EmailIcon,
