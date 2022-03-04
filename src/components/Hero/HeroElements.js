@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import {Link as LinkS} from 'react-scroll'
-import img from '../../assets/food2.jpg'
+import img from '../../assets/banner.jpg'
 
 export const HeroBg = styled.section`
   position: relative;

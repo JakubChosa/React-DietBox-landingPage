@@ -44,8 +44,8 @@ export default function Navbar(props) {
             smooth={true} duration={500} spy={true} exact='true'scroll={scrollNav}>Order
             <NavLogoColor scroll={scrollNav}>Box</NavLogoColor>
           </NavLogo>
-          <MenuIcon scroll={scrollNav}>
-            <FontAwesomeIcon onClick={props.toggle} icon={ faBars }/>
+          <MenuIcon scroll={scrollNav} onClick={props.toggle}>
+            <FontAwesomeIcon icon={ faBars }/>
           </MenuIcon>
           <NavMenu>
 
