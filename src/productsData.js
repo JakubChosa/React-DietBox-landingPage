@@ -66,8 +66,8 @@ export const products = [
   },
   {
     id: 6,
-    name: 'Paleto',
-    img: 'paleto',
+    name: 'Paleo',
+    img: 'paleo',
     details: {
       price: 15,
       calories: 500,
